@@ -1,8 +1,8 @@
 {
-  "name": "space-lib",
-  "version": "0.1.0",
+  "name": "@wiput1999/space-it",
+  "version": "0.0.1",
   "license": "MIT",
-  "author": "Wiput Pootong (wiput.pootong@gmail.com)",
+  "author": "Wiput Pootong (contact@wiput.me)",
   "main": "dist/index.js",
   "module": "dist/space-lib.esm.js",
   "typings": "dist/index.d.ts",

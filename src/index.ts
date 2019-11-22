@@ -30,7 +30,7 @@ function removeTrailingSpace(text: string): string {
   return text;
 }
 
-export default (sentence: string): string => {
+export = function spacer(sentence: string): string {
   let result = '';
 
   sentence.split('').forEach(char => {
